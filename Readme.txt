@@ -1,5 +1,7 @@
 This project is a Django-based backend for managing items with full CRUD (Create, Read, Update, Delete) functionality. It uses PostgreSQL as the database and Django Rest Framework (DRF) to expose the APIs.
 
+ScreenShot added in Wiki folder.
+
 Features
 
 1. Full CRUD operations for managing items.
