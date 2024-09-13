@@ -6,7 +6,7 @@ from datetime import timedelta
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Security settings
-SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'your-secret-key')
+SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 ALLOWED_HOSTS = []
 
